@@ -1,0 +1,35 @@
+.root:global(.__wab_instance) {
+  max-width: 100%;
+  width: 52px;
+  position: relative;
+  flex-grow: 1;
+  flex-shrink: 0;
+}
+.svg__iXveu {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.freeBox {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 8px;
+}
+.text {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.svg__yo8Yq {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
